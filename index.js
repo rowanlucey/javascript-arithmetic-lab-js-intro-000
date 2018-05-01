@@ -20,7 +20,7 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  parseFloat('n');
+  var a = parseFloat('n');
   return n;
 }
 
