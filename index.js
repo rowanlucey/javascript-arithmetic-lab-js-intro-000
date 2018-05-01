@@ -24,7 +24,7 @@ function preserveDecimal(n) {
   return 'n';
 }
 
+var n = 5
 function inc(n) {
-  var n = 5
   return (n++)
 }
