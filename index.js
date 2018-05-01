@@ -23,3 +23,8 @@ function preserveDecimal(n) {
   parseFloat('n');
   return 'n';
 }
+
+function inc(n) {
+  var n = 5
+  return (n++)
+}
