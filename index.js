@@ -29,5 +29,5 @@ function inc(n) {
 }
 
 function dec(n) {
-  return (dec - 1)
+  return (n - 1)
 }
